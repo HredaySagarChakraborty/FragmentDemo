@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text1"> Hello Hreday</string>
+    <string name="text2"> Hreday is an software engineer</string>
+    <string name="text3"> This is Sagar</string>
+    <string name="text4"> He is a developer</string>
+</resources>
